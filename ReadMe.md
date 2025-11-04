@@ -21,7 +21,7 @@ Dự án này là một sáng kiến khoa học dữ liệu toàn diện, tập 
 - **Vũ Hải Đăng** - Data Analyst
 - **Dương Đình Hiếu** - AI Engineer
 
-![Task Diagram](./docs/ADY-2025-11-03-073528.png)
+![Task Diagram](./docs/MAS.png)
 
 ---
 
